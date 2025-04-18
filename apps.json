@@ -4,55 +4,55 @@
     "description": "Explore prime numbers with interactive visuals.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
     "appStoreURL": "https://apps.apple.com/app/id0000000001",
-    "bundleID": "com.beautifulmath.prime"
+    "appKey": "com.beautifulmath.prime"
   },
   {
     "name": "Fraction Fun",
     "description": "Play with fractions and learn how they behave.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.fraction"
+    "appKey": "com.beautifulmath.fraction"
   },
   {
     "name": "Geometry Galaxy",
     "description": "Navigate shapes and angles in a cosmic world.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": "https://apps.apple.com/app/id0000000003",
-    "bundleID": "com.beautifulmath.geometry"
+    "appKey": "com.beautifulmath.geometry"
   },
     {
     "name": "Prime Time",
     "description": "Explore prime numbers with interactive visuals.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.primeduo"
+    "appKey": "com.beautifulmath.primeduo"
   },
   {
     "name": "Fraction Fun",
     "description": "Play with fractions and learn how they behave.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.fractionduo"
+    "appKey": "com.beautifulmath.fractionduo"
   },
   {
     "name": "Geometry Galaxy",
     "description": "Navigate shapes and angles in a cosmic world.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.geometryduo"
+    "appKey": "com.beautifulmath.geometryduo"
   },
     {
     "name": "Fraction Fun",
     "description": "Play with fractions and learn how they behave.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
     "appStoreURL": null,
-    "bundleID": "kokobone"
+    "appKey": "kokobone"
   },
   {
     "name": "Geometry Galaxy",
     "description": "Navigate shapes and angles in a cosmic world.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null,
-    "bundleID": "trigonometry"
+    "appKey": "trigonometry"
   }
 ]
