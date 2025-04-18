@@ -40,5 +40,19 @@
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null,
     "bundleID": "com.beautifulmath.geometryduo"
+  },
+    {
+    "name": "Fraction Fun",
+    "description": "Play with fractions and learn how they behave.",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
+    "appStoreURL": null,
+    "bundleID": "kokobone"
+  },
+  {
+    "name": "Geometry Galaxy",
+    "description": "Navigate shapes and angles in a cosmic world.",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "appStoreURL": null,
+    "bundleID": "trigonometry"
   }
 ]
