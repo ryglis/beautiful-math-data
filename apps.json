@@ -25,20 +25,20 @@
     "description": "Explore prime numbers with interactive visuals.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/main/icons/prime.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.prime"
+    "bundleID": "com.beautifulmath.primeduo"
   },
   {
     "name": "Fraction Fun",
     "description": "Play with fractions and learn how they behave.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/main/icons/fraction.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.fraction"
+    "bundleID": "com.beautifulmath.fractionduo"
   },
   {
     "name": "Geometry Galaxy",
     "description": "Navigate shapes and angles in a cosmic world.",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/main/icons/geometry.png",
     "appStoreURL": null,
-    "bundleID": "com.beautifulmath.geometry"
+    "bundleID": "com.beautifulmath.geometryduo"
   }
 ]
