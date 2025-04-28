@@ -1,58 +1,36 @@
 [
   {
-    "name": "Prime Time",
-    "description": "Explore prime numbers with interactive visuals.",
+    "appKey": "realNumbers",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
-    "appStoreURL": "https://apps.apple.com/app/id0000000001",
-    "appKey": "com.beautifulmath.prime"
+    "appStoreURL": "https://apps.apple.com/app/id0000000010"
   },
   {
-    "name": "Fraction Fun",
-    "description": "Play with fractions and learn how they behave.",
+    "appKey": "functions",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
     "appStoreURL": null,
-    "appKey": "com.beautifulmath.fraction"
+    "name": "Functions (Remote)",
+    "description": "Test override for functions — see this description instead of the built-in one."
   },
   {
-    "name": "Geometry Galaxy",
-    "description": "Navigate shapes and angles in a cosmic world.",
+    "appKey": "trigonometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
-    "appStoreURL": "https://apps.apple.com/app/id0000000003",
-    "appKey": "com.beautifulmath.geometry"
-  },
-    {
-    "name": "Prime Time",
-    "description": "Explore prime numbers with interactive visuals.",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
-    "appStoreURL": null,
-    "appKey": "com.beautifulmath.primeduo"
+    "appStoreURL": "https://apps.apple.com/app/id0000000011"
   },
   {
-    "name": "Fraction Fun",
-    "description": "Play with fractions and learn how they behave.",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
-    "appStoreURL": null,
-    "appKey": "com.beautifulmath.fractionduo"
+    "appKey": "planimetry",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "appStoreURL": null
   },
   {
-    "name": "Geometry Galaxy",
-    "description": "Navigate shapes and angles in a cosmic world.",
+    "appKey": "stereometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null,
-    "appKey": "com.beautifulmath.geometryduo"
-  },
-    {
-    "name": "Brak obrazka",
-    "description": "Play with fractions and learn how they behave.",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
-    "appStoreURL": null,
-    "appKey": "kokobone"
+    "name": "Stereo bobas (Remote)",
+    "description": "Test override for bobas bobas bobas."
   },
   {
-    "name": "Trygonometria",
-    "description": "Navigate shapes and angles in a cosmic world.",
+    "appKey": "cartesianGeometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
-    "appStoreURL": null,
-    "appKey": "trigonometry"
+    "appStoreURL": null
   }
 ]
