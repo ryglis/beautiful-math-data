@@ -32,5 +32,10 @@
     "appKey": "cartesianGeometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null
+  },
+  {
+    "appKey": "banilukiTest",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "appStoreURL": "https://apps.apple.com/app/id0000000012"
   }
 ]
