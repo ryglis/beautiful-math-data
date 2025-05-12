@@ -1,37 +1,37 @@
 [
   {
     "appKey": "realNumbers",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/realNumbers.png",
     "appStoreURL": null
   },
   {
     "appKey": "algebraicExpressions",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/algebraicExpressions.png",
     "appStoreURL": null
   },
   {
     "appKey": "functions",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/functions.png",
     "appStoreURL": null,
   },
   {
     "appKey": "trigonometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/trigonometry.png",
     "appStoreURL": "https://apps.apple.com/app/id0000000011"
   },
   {
     "appKey": "planimetry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/planimetry.png",
     "appStoreURL": null
   },
   {
     "appKey": "stereometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/stereometry.png",
     "appStoreURL": null
   },
   {
     "appKey": "cartesianGeometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/cartesianGeometry.png",
     "appStoreURL": null
   }
 ]
