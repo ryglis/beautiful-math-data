@@ -5,11 +5,14 @@
     "appStoreURL": null
   },
   {
+    "appKey": "algebraicExpressions",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
+    "appStoreURL": null
+  },
+  {
     "appKey": "functions",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/fraction.png",
     "appStoreURL": null,
-    "name": "Functions (Remote)",
-    "description": "Test override for functions — see this description instead of the built-in one."
   },
   {
     "appKey": "trigonometry",
@@ -24,17 +27,10 @@
   {
     "appKey": "stereometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
-    "appStoreURL": null,
-    "name": "Stereo bobas (Remote)",
-    "description": "Test override for bobas bobas bobas."
-  },
-  {
-    "appKey": "cartesianGeometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null
   },
   {
-    "appKey": "banilukiTest",
+    "appKey": "cartesianGeometry",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
     "appStoreURL": null
   }
