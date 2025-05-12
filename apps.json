@@ -2,7 +2,7 @@
   {
     "appKey": "realNumbers",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/prime.png",
-    "appStoreURL": "https://apps.apple.com/app/id0000000010"
+    "appStoreURL": null
   },
   {
     "appKey": "functions",
@@ -36,6 +36,6 @@
   {
     "appKey": "banilukiTest",
     "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/geometry.png",
-    "appStoreURL": "https://apps.apple.com/app/id0000000012"
+    "appStoreURL": null
   }
 ]
