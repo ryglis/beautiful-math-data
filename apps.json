@@ -1,7 +1,7 @@
 [
   {
     "appKey": "realNumbers",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/realNumbers.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/realNumbers_new.png",
     "appStoreURL": "https://apps.apple.com/app/id6747298785"
   },
   {
@@ -11,17 +11,17 @@
   },
   {
     "appKey": "functions",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/functions.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/functions_new.png",
     "appStoreURL": "https://apps.apple.com/app/id6748471666",
   },
   {
     "appKey": "trigonometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/trigonometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/trigonometry_new.png",
     "appStoreURL": "https://apps.apple.com/app/id6746460113"
   },
   {
     "appKey": "planimetry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/planimetry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/planimetry_new.png",
     "appStoreURL": "https://apps.apple.com/app/id6752787683"
   },
   {
