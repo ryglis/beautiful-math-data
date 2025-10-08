@@ -6,7 +6,7 @@
   },
   {
     "appKey": "algebraicExpressions",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/algebraicExpressions.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/algebraicExpressions_new.png",
     "appStoreURL": null
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "appKey": "stereometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/stereometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/stereometry_new.png",
     "appStoreURL": null
   },
   {
     "appKey": "cartesianGeometry",
-    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/cartesianGeometry.png",
+    "iconURL": "https://ryglis.github.io/beautiful-math-data/icons/cartesianGeometry_new.png",
     "appStoreURL": null
   }
 ]
